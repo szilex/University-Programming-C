@@ -1,0 +1,21 @@
+Plecak: 100
+Watch 15 12
+Gold 40 20
+Ring 30 8
+Diamonds 50 3
+Earrings 12 4
+Necklace 23 9
+Glasses 10 5
+Suit 40 6
+Smartphone 20 10
+Laptop 32 14
+Books 14 6
+Food 2 5
+TV 31 50
+Lamp 14 11
+Keyboard 17 8
+Mice 9 6
+Speakers 13 10
+Monitor 30 18
+CPU 24 16
+Fridge 34 62
